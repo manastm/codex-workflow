@@ -103,7 +103,7 @@ npx cw "Add user profile page"
 ### Option B: From GitHub (available now)
 ```bash
 # One-time setup
-git clone https://github.com/yourusername/codex-workflow
+git clone https://github.com/manastm/codex-workflow
 cd codex-workflow
 npm install
 npm link
@@ -117,7 +117,7 @@ cw "Add user profile page"
 ### Option C: Direct usage (no install)
 ```bash
 # Clone and use directly
-git clone https://github.com/yourusername/codex-workflow
+git clone https://github.com/manastm/codex-workflow
 cd codex-workflow
 npm install
 
