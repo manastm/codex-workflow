@@ -1,0 +1,12 @@
+node_modules/
+*.log
+.env
+.DS_Store
+dist/
+build/
+.npm
+.nyc_output
+coverage/
+
+# Claude-specific (don't commit personal configs)
+.claude/
