@@ -1,4 +1,4 @@
-# Codex Workflow — Automatic process for Claude Code & Codex CLI
+# Codex and Claude Workflow — Automatic process for Claude Code & Codex CLI
 
 Make Claude Code or Codex CLI work the way you want, automatically. This package bootstraps your plan-first workflow, documents every session, and updates status docs without you pasting prompts or hand-holding.
 
